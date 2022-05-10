@@ -1,7 +1,7 @@
 <?php
     /**
     *@author Cristian Ramos Rodriguez.
-    *@version 26/04/2022
+    *@version 10/05/2022
     *@param variable nombre de entrada que almacenará los datos que reciba.    *
     */
 	function saludo($nombre) {
